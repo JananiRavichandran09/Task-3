@@ -6,9 +6,9 @@
 
  **3) Display all the country Names**
    
- + Display all the country Region.
+ **+ Display all the country Region.**
     + Attached the screenshot of console in html page.
- + Display all the country Subregion.
+ **+ Display all the country Subregion.**
     + Attached the screenshot of console in html page.
- + Display all the country Population.
+ **+ Display all the country Population.**
     + Attached the screenshot of console in html page.
